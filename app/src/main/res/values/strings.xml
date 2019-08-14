@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Max Home Test</string>
+
+    //pager names
+    <string name="fragment_all">כל ההטבות</string>
+    <string name="fragment_recommended">המומלצים</string>
+    <string name="fragment_personal_benfits">הפינוקים שלי</string>
+    <string name="fragment_favorites">המועדפים שלי</string>
+
+</resources>
