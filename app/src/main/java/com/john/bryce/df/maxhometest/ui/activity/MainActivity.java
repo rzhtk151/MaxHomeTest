@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity  implements IItemClickListen
         setContentView( R.layout.activity_main );
         MainPagerFragment.show(getSupportFragmentManager(), R.id.fragmentContainer);
 
+
     }
 
     @Override
